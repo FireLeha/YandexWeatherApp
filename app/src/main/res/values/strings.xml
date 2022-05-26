@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">YandexWeatherApp</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="temperature_label">Температура</string>
+    <string name="feels_like_label">Ощущается как:</string>
+    <string name="city_coordinates">lt/ln: %s, %s"</string>
+    <string name="error">Error</string>
+    <string name="reload">Reload</string>
+
+    <string name="snackbar_without_action">Успешная загрузка</string>
+    <string name="snackbar_with_action">Ошибка </string>
+    <string name="btnOk">ok</string>
+    <string name="history_title_name">History</string>
+</resources>

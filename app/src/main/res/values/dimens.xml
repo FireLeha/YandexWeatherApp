@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="city_name_textsize">35sp</dimen>
+    <dimen name="feels_like_label_text_size">20sp</dimen>
+    <dimen name="city_name_text_size">35sp</dimen>
+    <dimen name="condition_value_text_size">20sp</dimen>
+    <dimen name="main_recycler_city_name_text_size">20sp</dimen>
+    <dimen name="history_recycler_city_name_text_size">20sp</dimen>
+</resources>
