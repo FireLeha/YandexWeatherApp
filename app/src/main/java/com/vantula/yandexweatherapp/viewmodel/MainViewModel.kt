@@ -10,6 +10,8 @@ class MainViewModel(
     private val repositoryLocalImpl: RepositoryLocalImpl = RepositoryLocalImpl(),
 ) : ViewModel() {
 
+
+
     fun getLiveData(): LiveData<AppStateMainFragment> = liveData
 
     fun getWeatherFromLocalStorageRus() = getWeatherFromLocalServer(true)
